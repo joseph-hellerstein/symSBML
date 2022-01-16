@@ -1,5 +1,11 @@
+coverage
+matplotlib
+nose
 numpy
 pandas
+pip>20
+pylint
+python-libsbml
+sympy
 tellurium
-simplesbml
-matplotlib
+urllib3
